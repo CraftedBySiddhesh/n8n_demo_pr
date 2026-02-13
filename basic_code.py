@@ -6,3 +6,8 @@ num2 = float(input("Enter second number: "))
 sum = num1 + num2
 # Display the sum
 print("The sum is:", sum)
+
+
+x = 2
+y = 5
+print(x*y)
